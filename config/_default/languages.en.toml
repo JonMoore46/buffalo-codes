@@ -3,7 +3,7 @@ languageName = "English"
 languageDirection = "ltr"
 weight = 1
 
-title = "All about Jon 'Buffalo' Moore"
+title = "Buffalo Codes"
 # copyright = "Copy, _right?_ :thinking_face:"
 
 [params]
@@ -16,7 +16,7 @@ title = "All about Jon 'Buffalo' Moore"
   name = "Jon Moore"
   image = "me.jpg"
   headline = "Lead Engineer who enjoys getting the best out our people and software. Based in beautiful Shropshire, UK."
-  bio = "A little bit about you"
+  bio = "Curiosity Killed the Impossible"
 links = [
   { github = "https://github.com/JonMoore46" },
   { linkedin = "https://www.linkedin.com/in/jon-moore-59393445/" },

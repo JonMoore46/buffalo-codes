@@ -12,3 +12,16 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[deployment]
+
+[[deployment.targets]]
+# An arbitrary name for this target.
+name = "buffalocodes.com"
+
+
+
+# Amazon Web Services S3; see https://gocloud.dev/howto/blob/#s3
+# For S3-compatible endpoints, see https://gocloud.dev/howto/blob/#s3-compatible
+URL = "s3://www.buffalocodes.com?region=eu-west-2"
+

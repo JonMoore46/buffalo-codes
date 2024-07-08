@@ -1,6 +1,6 @@
 ---
 title: "JSON.parse likes numbers 😱"
-date: 2024-06-13
+date: 2024-07-08
 description: "Odd behaviour I discovered with JSON.parse."
 summary: "I discoverd JSON parse will accept a number a return a valid response."
 tags: ["web development", "json"]
